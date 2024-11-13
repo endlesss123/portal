@@ -1,0 +1,13 @@
+{
+    "name": "Endless Thao",
+    "age": 23,
+    "city": "Everett",
+    "interests": [
+        "Marvel",
+        "EDM",
+        "Books",
+        "Sushi",
+        "Shows"
+    ],
+    "is_student": true
+}
